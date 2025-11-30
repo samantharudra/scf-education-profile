@@ -168,7 +168,7 @@ I used hierarchical clustering to group U.S. households into three segments base
 
 These clusters represent meaningful financial profiles that characterize different economic realities among U.S. households.
 
-#### **2. XGBoost Regression for Education Prediction**
+#### **2. XGBoost for Education Prediction**
 An XGBoost classifier predicts **highest level of education completed** based on:
 
 - Basic demographics  
