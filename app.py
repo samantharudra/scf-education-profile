@@ -258,7 +258,7 @@ with tab4:
 
     # Income
     income_choice = st.radio(
-        "Provide your annual income?",
+        "Provide your annual household income?",
         ["Enter Amount", "Unknown"],
         horizontal=True
     )
@@ -276,7 +276,7 @@ with tab4:
 
     # Net Worth
     networth_choice = st.radio(
-        "Provide your net worth?",
+        "Provide your household net worth?",
         ["Enter Amount", "Unknown"],
         horizontal=True
     )
